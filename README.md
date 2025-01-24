@@ -10,11 +10,11 @@ GIFA Inc. is dedicated to providing top-notch services that cater to the diverse
 
 We offer a variety of services including, but not limited to:
 
-- **Business Consulting**: Expert advice to help you navigate complex business challenges.
-- **Financial Services**: Comprehensive financial solutions tailored to your needs.
-- **Technology Solutions**: Cutting-edge technology to drive your business forward.
+- **Business Consulting**: We provide comprehensive and diverse consulting services that meet the needs of our clients in various sectors.
+- **Tourism Services**: We provides personal and professional investment advice, airline representation and leisure travel services.
+- **Technology Solutions**: We provide end-to-end supply and demand chain management services to our local and international clients.
 - **Marketing Services**: Strategic marketing solutions to help you reach your target audience.
-- **Legal Services**: Professional legal advice to protect your business interests.
+- **Media Services**: In media industry, we offer a daily printed newspaper and Webtv, as well as providing other makerting services.
 
 ## Our Mission
 
@@ -24,17 +24,15 @@ Our mission is to empower individuals and businesses by providing innovative sol
 
 Feel free to reach out to us for any inquiries or further information:
 
-- **Email**: info@gifainc.com
-- **Phone**: +90 392 123 4567
-- **Address**: 123 Business Street, Lefkosa, Cyprus
+- **Email**: support@gifainc.com
+- **Phone**: +903926116000
+- **Address**: Dr Fazil Kucuk Boulevard, Hamitkoy Lefkosa, Northern Cyprus
 
 ## Follow Us
 
 Stay connected with us on social media:
 
-- [LinkedIn](https://www.linkedin.com/company/gifa-inc)
-- [Twitter](https://twitter.com/gifa_inc)
-- [Facebook](https://www.facebook.com/gifa.inc)
+- [Instagram](https://www.instagram.com/gifainc/)
 
 ---
 
