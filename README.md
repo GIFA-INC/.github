@@ -1,10 +1,6 @@
 # GIFA Inc.
 
-GIFA Inc., founded in 2008 and headquartered in Lefkosa, Cyprus, offers a wide range of services to individual and corporate clients. The company drives business and innovations.
-
-## Overview
-
-GIFA Inc. is dedicated to providing top-notch services that cater to the diverse needs of our clients. Since our inception, we have been at the forefront of innovation and business development, helping clients achieve their goals through our expertise and commitment to excellence.
+GIFA Inc., founded in 2008 and headquartered in Lefkosa, Northern Cyprus, is a multinational company with branches all over the world. It offers a wide range of services to individual and corporate clients. The company drives business and innovations. GIFA Inc. is dedicated to providing top-notch services that cater to the diverse needs of our clients. Since our inception, we have been at the forefront of innovation and business development, helping clients achieve their goals through our expertise and commitment to excellence.
 
 ## Services
 
